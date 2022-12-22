@@ -1,6 +1,6 @@
 {
     "secretKey": "contratoclandestino",
-    "host": "http://localhost",
+    "host": "http://45.178.181.13/",
     "port": "21465",
     "deviceName": "WppConnect",
     "poweredBy": "WPPConnect-Server",
