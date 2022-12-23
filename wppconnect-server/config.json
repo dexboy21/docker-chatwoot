@@ -2,11 +2,11 @@
     "secretKey": "contratoclandestino",
     "host": "http://45.178.181.13",
     "port": "21465",
-    "deviceName": "WppConnect",
+    "deviceName": "Divulgacao",
     "poweredBy": "WPPConnect-Server",
     "startAllSession": true,
     "tokenStoreType": "file",
-    "maxListeners": 15,
+    "maxListeners": 5,
     "customUserDataDir": "./userDataDir/",
     "webhook": {
       "url": null,
