@@ -1,12 +1,12 @@
 {
     "secretKey": "contratoclandestino",
-    "host": "http://45.178.181.13",
+    "host": "http://localhost",
     "port": "21465",
     "deviceName": "Divulgacao",
     "poweredBy": "WPPConnect-Server",
     "startAllSession": true,
     "tokenStoreType": "file",
-    "maxListeners": 5,
+    "maxListeners": 15,
     "customUserDataDir": "./userDataDir/",
     "webhook": {
       "url": null,

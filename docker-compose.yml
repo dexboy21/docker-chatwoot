@@ -59,8 +59,8 @@ services:
     container_name: chatwoot-pgadmin4
     hostname: chatwoot-pgadmin4
     environment:
-      PGADMIN_DEFAULT_EMAIL: "demo@demo.com.br"
-      PGADMIN_DEFAULT_PASSWORD: "PgAdmin2021!"
+      PGADMIN_DEFAULT_EMAIL: "contrato@clandestino.com.br"
+      PGADMIN_DEFAULT_PASSWORD: "PgAdmin2023!"
     depends_on:
       - postgres
     networks:
